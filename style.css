@@ -1,0 +1,17 @@
+.col-2 img {
+    height: 120px;
+}
+body{
+    background-image: url(.//img/1920x1200-digital-art-earth-map-wallpaper-preview.jpg);
+    background-size: 1350px 680px;
+    font-family: 'Roboto', sans-serif;
+}
+.card{
+    background: none;
+    border: none;
+    color: white;
+}
+#txtSearch{
+    background: none;
+    color: white;
+}
